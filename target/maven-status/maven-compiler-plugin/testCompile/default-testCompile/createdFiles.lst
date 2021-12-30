@@ -1,0 +1,6 @@
+com\sg\supersight\dao\LocationDaoDBTest.class
+com\sg\supersight\dao\SightingDaoDBTest.class
+com\sg\supersight\SupersightApplicationTests.class
+com\sg\supersight\dao\HeroDaoDBTest.class
+com\sg\supersight\dao\OrganizationDaoDBTest.class
+com\sg\supersight\dao\SuperpowerDaoDBTest.class
